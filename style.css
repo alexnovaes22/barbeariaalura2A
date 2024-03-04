@@ -1,0 +1,11 @@
+body {
+	background: hsl(200, 80%, 43%)
+}
+
+p {
+	text-align: center;
+}
+
+em strong {
+	color: #5305d8;
+}
