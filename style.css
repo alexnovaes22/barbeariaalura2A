@@ -10,6 +10,7 @@ h1 {
 	color: #ffffff	;
 	border: 5px solid #d4ff00 ;
 	padding: 20px;
+	margin: 20px;
 }
 p {
 	text-align: center;
@@ -22,4 +23,8 @@ p {
 
 em strong {
 	color: #d4ff00;
+}
+
+#beneficios {
+	color: #d4ff00	;
 }
